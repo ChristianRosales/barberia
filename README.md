@@ -1,0 +1,1 @@
+Este es un proyecto que estructura un sitio web para una barberia, basicamente para practicar la estructura y el estilo que puede implantarse en sitios como este. Contiene una pagina principal, sección de productos y formulario de contacto.
